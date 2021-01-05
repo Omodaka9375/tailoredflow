@@ -25,7 +25,7 @@ It works on Firefox, Chrome, Safari (mobile too!) - even when you lock your phon
 
 ## Screenshots
 ![screenshot](Capture.PNG)
-![screenshot](Capture4.png)
+![screenshot](Capture4.PNG)
 ![screenshot](tf.png)
 
 
