@@ -24,7 +24,7 @@ It works on Firefox, Chrome, Safari (mobile too!) - even when you lock your phon
 **Shipped version:** 1.0
 
 ## Screenshots
-![screenshot](Capture.PNG)
+![screenshot](tf.png)
 
 ## Demo
 
